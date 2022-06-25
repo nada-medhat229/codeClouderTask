@@ -1,0 +1,43 @@
+/* .MuiStep-root > div:first-of-type{
+    margin-left: 24px;
+}
+.MuiStepConnector-vertical {
+    margin-left: 24px;
+} */
+
+.MuiStepContent-root {
+     margin-top: 0px !important; 
+    border-left: 1px solid #bdbdbd;
+    height: 170px;
+    margin-left: 0px !important;
+}
+.MuiStepLabel-label {
+    display: flex !important;
+    align-items: center;
+}
+
+.MuiStepContent-last {
+
+    display: none;
+}
+.MuiStep-completed{
+    background-color: #EDEDF0;
+    border-right: 2px solid #E23718;
+}
+.MuiStepConnector-vertical {
+    padding: 0 0 0px !important;
+    margin-left: 22px !important;
+}
+.MuiStep-vertical{
+    padding: 10px;
+    
+}
+
+
+.MuiStepConnector-lineVertical {
+min-height: 34px !important;
+border-left-style: solid;
+border-left-width: 1px;
+margin-top: -10px;
+margin-bottom: -2px;
+}
